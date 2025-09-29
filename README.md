@@ -1,5 +1,5 @@
 ### 💫 About Me:
-im PHP Developer in Bangladesh,<br> <br>now im working at Xgenious<br>
+I’m a Full Stack Software Engineer experienced in building scalable web and SaaS applications. Creator of PopGenix (popup & banner solution in shopify app store) and contributor to ReportGenix (AI powered custom report builder). Skilled in PHP, Laravel, MySQL,PostgreSQL, JavaScript, React, Next.js, socket.io, liquid and  git . I focus on delivering user-friendly and future-ready solutions that drive business growth.
 
 
 ## 🌐 Socials:
@@ -22,4 +22,5 @@ im PHP Developer in Bangladesh,<br> <br>now im working at Xgenious<br>
 [![](https://visitcount.itsvg.in/api?id=Noman73&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
